@@ -2,7 +2,8 @@ import React from "react";
 import Banner from "./Banner";
 import "./HomeScreen.css";
 import Nav from "./Nav";
-import requests from "../Requests";
+import requests from "./Requests";
+import Row from "./Row";
 
 function HomeScreen() {
   return (
